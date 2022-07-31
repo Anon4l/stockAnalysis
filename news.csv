@@ -1,0 +1,10 @@
+news,sentiment,sentimentSum
+“It's ok for Tesla to be the best EV company with a stock that takes a break.”.,"{'label': 'neutral', 'score': 0.5653234720230103}",0
+"Amazon, Apple, Google and Tesla have all done it. Here's why companies split their stock. Published Fri, Jul 29 20228:00 AM EDT. thumbnail.","{'label': 'neutral', 'score': 0.9255703687667847}",0
+"Shares of Tesla Inc. TSLA, +5.78% advanced 6.17% to $824.46 Wednesday, on what proved to be an all-around favorable trading session for the...","{'label': 'positive', 'score': 0.9481731057167053}",0.9481731057167053
+"According to ARK's daily transaction reports, the ARK Innovation ETF sold nearly $29 million worth of Tesla shares on Friday — a total of...","{'label': 'neutral', 'score': 0.9183894991874695}",0.9481731057167053
+"Up until last week, Tesla (TSLA 5.79%) was one of the largest holdings in my real-money stock portfolio. What started as an ordinary stock...","{'label': 'neutral', 'score': 0.9338715076446533}",0.9481731057167053
+"On Wednesday, Tesla board member Kimbal Musk purchased 25,000 TSLA shares. Musk had exercised a call option to buy TSLA shares at a...","{'label': 'neutral', 'score': 0.9153361320495605}",0.9481731057167053
+Tesla shares were about 5 percentage points better than the Nasdaq for the month coming into Musk's comments.,"{'label': 'positive', 'score': 0.9066426753997803}",1.8548157811164856
+"Tesla Chief Executive Elon Musk struck an upbeat note on inflation, saying the electric-vehicle maker was seeing a growing number of key...","{'label': 'positive', 'score': 0.9412456154823303}",2.796061396598816
+Motley Fool Returns. Motley Fool Stock Advisor. Market-beating stocks from our award-winning analyst team. Stock Advisor Returns.,"{'label': 'neutral', 'score': 0.7146320939064026}",2.796061396598816
